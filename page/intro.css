@@ -1,0 +1,194 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.bo1{
+    background-color: #EAF6F6;
+}
+.bo1 h1, .bo1 h2{
+   text-align: center;
+   color: #66BFBF;
+}
+.bo1 h1{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0%;
+    font-family: 'Sacramento', cursive;  
+    font-size: 6vw;
+}
+.bo1 h2{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 2.8vw;
+}
+.head1{
+    padding-top: 10%;
+    font-family: 'Sacramento', cursive;
+    font-size: 5vw;
+}
+.cloud1{
+    position: absolute;
+    right: 12%;
+    top: 8%;
+    width: 15%;
+}
+.cloud2{
+    position: absolute;
+    top: 23%;
+    right: 75%;
+    width: 15%;
+}
+.mont{
+    display: block;
+    margin: 0 auto;
+    width: 70%;
+}
+.myimg{
+    display: block;
+    margin: 35px auto 5px;
+    height: 18%;
+    width: 18%;
+    border: 4px solid #66BFBF; 
+    border-radius: 100%;
+}
+.myimg:hover{
+    border: 4px solid #11999E;
+}
+.bo2 h2 {
+    text-align: center;
+    color: #66BFBF;
+    font-size: 3.5vw;
+    
+    padding-top: 1%;
+}
+.bo2 p{
+    text-align: center;
+    width:50%;
+    font-size: 1.4vw;
+    display: block;
+    margin: 0 auto 6% auto;
+}
+hr{
+    border-style: dotted none none none;
+    border-color: grey;
+    border-width: 6px;
+    width: 10%;
+}
+.bo3{
+    /* background-color: gold; */
+    position: relative;
+}
+.sk1{
+    height: 29%;
+    width: 10%;
+    position: absolute;
+    left: 30%;
+    top: 9.5%;
+}
+.sk1txt h3,.sk2txt h3{
+    color:#66BFBF; 
+} 
+.sk1txt {
+    color: darkslategrey;
+    line-height: 1.5em;
+    font-size: 1.5vw;
+    width: 40%;
+    margin-left: 43%;
+    text-align: justify;
+}
+.sk2{
+    height: 29%;
+    width: 10%;
+    position: absolute;
+    left: 73%;
+    bottom: 1%;
+    /* position: absolute;
+    left: 30%;
+    top: 30%; */
+}
+.sk2txt{
+    color: darkslategrey;
+    line-height: 1.5em;
+    font-size: 1.5vw;
+    width: 40%;
+    margin-left: 30%;
+    text-align: justify;
+}
+.geti h2{
+    text-align: center;
+    color: #66BFBF;
+    font-size: 2.5vw;
+    padding-top: 1%;
+}
+.geti h3{
+    text-align: center;
+    color: #11999E;
+    font-size: 1.5vw;
+    padding-top: 3%;
+}
+.geti p{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: darkslategrey;
+    font-size: 1.2vw;
+    padding-top: 1%;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Georgia;
+    color: white;
+    font-size: 1.6vw;
+    padding: 1em 2em 1em 2em;
+    text-decoration: none;
+    display: block;
+    width: 11%;
+    margin: 6% auto 4% auto;
+    }
+  
+  .btn:hover {
+    background: #4bc0c4;
+    background-image: -webkit-linear-gradient(top, #4bc0c4, #66BFBF);
+    background-image: -moz-linear-gradient(top, #4bc0c4, #66BFBF);
+    background-image: -ms-linear-gradient(top, #4bc0c4, #66BFBF);
+    background-image: -o-linear-gradient(top, #4bc0c4, #66BFBF);
+    background-image: linear-gradient(to bottom, #4bc0c4, #66BFBF);
+    text-decoration: none;
+  }
+  .footer{
+      background-color: #66BFBF;
+      height: 200px;
+  }
+  .footer a{
+      text-decoration: none;
+      color: #11999E;
+      font-size: 1.7vw;
+      display: inline-block;
+      margin: 3% 5% 3% 5%;   
+  }
+  .footer a:hover{
+    text-decoration: none;
+    color: white;
+    font-size: 1.7vw;
+    display: inline-block;
+    margin: 1% 5% 3% 5%;
+    margin-top: 1%;   
+}
+#link1{
+    margin-left: 25%;
+}
+.footer p{
+    color: white;
+    text-align: center;
+    margin-top: 3%;
+    font-size: 1.4vw;
+}
+
+ 
